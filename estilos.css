@@ -6,3 +6,11 @@
     border-style: solid;
 }
 
+html {
+    background-color: bisque;
+}
+
+.textoArticulo {
+    color: cornflowerblue;
+}
+
